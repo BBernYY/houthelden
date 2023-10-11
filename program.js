@@ -7,19 +7,19 @@ const df = [
 //      "email": "[vul in]"
 //  }, <--voeg een komma toe behalve bij de laatste
     {
-        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds",
+        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds1",
         "desc": "Testdesc",
         "foto_url": "foto1.jpg",
         "email": "screitsma128@gmail.com"
     },
     {
-        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds",
+        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds2",
         "desc": "Testdesc",
         "foto_url": "foto1.jpg",
         "email": "screitsma128@gmail.com"
     },
     {
-        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds",
+        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds3",
         "desc": "Testdesc",
         "foto_url": "foto1.jpg",
         "email": "screitsma128@gmail.com"
