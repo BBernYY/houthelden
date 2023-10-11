@@ -11,6 +11,18 @@ const df = [
         "desc": "Gemaakt door moeder natuur",
         "foto_url": "foto1.jpg",
         "email": "moedernatuur123@aarde.com"
+    },
+    {
+        "naam": "Boom2",
+        "desc": "Gemaakt door moeder natuur",
+        "foto_url": "foto1.jpg",
+        "email": "moedernatuur123@aarde.com"
+    },
+    {
+        "naam": "Boom3",
+        "desc": "Gemaakt door moeder natuur",
+        "foto_url": "foto1.jpg",
+        "email": "moedernatuur123@aarde.com"
     }
     
     
