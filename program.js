@@ -7,23 +7,11 @@ const df = [
 //      "email": "[vul in]"
 //  }, <--voeg een komma toe behalve bij de laatste
     {
-        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds1",
-        "desc": "Testdesc",
+        "naam": "Boom",
+        "desc": "Gemaakt door moeder natuur",
         "foto_url": "foto1.jpg",
-        "email": "screitsma128@gmail.com"
-    },
-    {
-        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds2",
-        "desc": "Testdesc",
-        "foto_url": "foto1.jpg",
-        "email": "screitsma128@gmail.com"
-    },
-    {
-        "naam": "sjshacdddsddsadasdsdasdsdsdsdsdsdsds3",
-        "desc": "Testdesc",
-        "foto_url": "foto1.jpg",
-        "email": "screitsma128@gmail.com"
-    },
+        "email": "moedernatuur123@aarde.com"
+    }
     
     
 ]
