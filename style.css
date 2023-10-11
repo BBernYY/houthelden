@@ -9,3 +9,36 @@ html {
     --fontsize: 15px;
     
 }
+
+.thumbnail {
+    width: 256px;
+    height: 256px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-bottom: 2px;
+}
+.card {
+    border-radius: 10px;
+    display: flex;
+    width: fit-content;
+    height: 45vh;
+    background-color: var(--color2);
+    flex-direction: column;
+    align-items:center;
+    margin: auto;
+    margin-bottom: 5px;
+}
+body {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0;
+
+}
+p, h2 {
+    max-width: 256px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space:nowrap;
+}
